@@ -1,0 +1,9 @@
+.text{
+    color: brown;
+    font-weight: bold;
+}
+.service{
+    background-color: rgb(163, 235, 231);
+    border: 1px solid gray;
+    border-radius: 20px;
+}
